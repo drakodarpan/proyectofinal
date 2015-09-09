@@ -1,0 +1,30 @@
+@import 'mixins';
+
+body{
+ background: #eee;
+ // background: hsl(2, 0%, 93%);
+}
+
+.fondo-indicadores {
+  @include color-fondoTxt(#155580, #0f5d8a);
+  @include contorno-txt;
+}
+
+.fondo-indicadores:hover {
+  @include color-fondoTxt(#106ea8, #178dd6);
+  text-decoration: none;
+}
+
+.txt-principal{
+    color: white;
+}
+
+.fondo-comparaciones {
+  @include color-fondoTxt(#ff8000, #d6730f);
+  @include contorno-txt;
+}
+
+.fondo-comparaciones:hover {
+  @include color-fondoTxt(#e67b10, #db730b);
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+@mixin color-fondoTxt($colorInicio, $colorfin){
+  background: $colorInicio;
+  background-image: -webkit-linear-gradient(top, $colorInicio, $colorfin);
+  background-image: -moz-linear-gradient(top, $colorInicio, $colorfin);
+  background-image: -ms-linear-gradient(top, $colorInicio, $colorfin);
+  background-image: -o-linear-gradient(top, $colorInicio, $colorfin);
+  background-image: linear-gradient(to bottom, $colorInicio, $colorfin);
+}
+
+@mixin contorno-txt{
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 90px;
+}
