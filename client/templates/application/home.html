@@ -1,0 +1,16 @@
+<template name="home">
+
+  <div class="row">
+    <div class="large-12 columns">
+      {{#each menu}}
+        <div class="large-5 columns img-position">
+          <div class="{{clase_boton}}">
+            <img src="{{img_mostrar}}" alt="{{alt_mostrar}}">
+            <a href="{{url}}"><h4 class="txt-principal text-center">{{titulo}}</h4></a>
+          </div>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+
+</template>

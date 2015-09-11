@@ -1,8 +1,9 @@
 <template name="layout">
+
   <nav class="top-bar" data-topbar="" role="navigation">
     <ul class="title-area">
       <li class="name">
-        <h1><a href="{{pathFor 'home'}}">Proyecto final</a></h1>
+        <h1><a href="{{pathFor 'layout'}}">Proyecto final</a></h1>
       </li>
 
       <li class="toggle-topbar menu-icon"><a href="#"><span>MENU</span></a></li>
@@ -16,24 +17,8 @@
     </section>
   </nav>
 
-  <div class="row">
-    {{#each Menu}}
-      <div class="large-12 columns">
-        <div class="large-5 columns img-position">
-          <div class="fondo-indicadores">
-            <img src="desempeno.jpg" alt="Indicadores de Desempeño">
-            <!-- a href="#"><h4 class="txt-principal text-center">INDICADORES DE <br> DESEMPEÑO</h4></a -->
-            <a href="{{url}}"><h4 class="txt-principal text-center">INDICADORES DE <br> DESEMPEÑO</h4></a>
-          </div>
-        </div>
-
-        <div class="large-5 columns img-position">
-          <div class="fondo-comparaciones">
-            <img src="indicadores.jpg" alt="Comparación de Indicadores">
-            <a href="{{url}}"><h4 class="txt-principal text-center">COMPARACIÓN DE INDICADORES</h4></a>
-          </div>
-        </div>
-      </div>
-    {{/each}}
+  <div id="main">
+    {{> yield}}
   </div>
+  
 </template>
