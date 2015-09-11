@@ -28,6 +28,6 @@ body{
 }
 
 .fondo-comparaciones:hover {
-  @include color-fondoTxt(#e67b10, #db730b);
+  @include color-fondoTxt(#db730b, #e88d31);
   text-decoration: none;
 }
