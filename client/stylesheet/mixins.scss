@@ -7,10 +7,10 @@
   background-image: linear-gradient(to bottom, $colorInicio, $colorfin);
 }
 
-@mixin contorno-txt{
-  -webkit-border-radius: 13;
-  -moz-border-radius: 13;
-  border-radius: 13px;
+@mixin contorno-txt($radius){
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
   font-family: Arial;
   color: #ffffff;
   font-size: 20px;

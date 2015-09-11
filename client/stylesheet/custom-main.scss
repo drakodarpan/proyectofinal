@@ -4,13 +4,37 @@ body{
  background: #eee;
 }
 
-.img-position{
-  margin-top: 90px;
+.row-title{
+  padding-top: 20px;
 }
 
+/* Color del texto general */
+.txt-principal{
+    color: white;
+}
+
+/* Etiqueta del titulo de la pagina */
+.lbl-title{
+  @include contorno-txt(28);
+  background: #49b0f5;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+/* Formato para el footer */
+.row-footer{
+  padding-top: 80px;
+}
+
+/* Posición de las imagenes*/
+.img-position{
+  margin-top: 130px;
+}
+
+/* Formato para los indicadores */
 .fondo-indicadores {
   @include color-fondoTxt(#155580, #0f5d8a);
-  @include contorno-txt;
+  @include contorno-txt(13);
 }
 
 .fondo-indicadores:hover {
@@ -18,13 +42,10 @@ body{
   text-decoration: none;
 }
 
-.txt-principal{
-    color: white;
-}
-
+/* Formato para las comparaciones */
 .fondo-comparaciones {
   @include color-fondoTxt(#ff8000, #d6730f);
-  @include contorno-txt;
+  @include contorno-txt(13);
 }
 
 .fondo-comparaciones:hover {
