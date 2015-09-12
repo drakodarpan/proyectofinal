@@ -1,0 +1,1582 @@
+[
+  {
+    "tipofamilia":"0",
+    "depto":"101",
+    "descripcion":"PRUEBA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"121",
+    "descripcion":"LICUADORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"124",
+    "descripcion":"BATIDORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"127",
+    "descripcion":"CAFETERAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"129",
+    "descripcion":"TETERAS HERVIDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"130",
+    "descripcion":"PROC. LIQUIDOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"133",
+    "descripcion":"PROC. PAN"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"136",
+    "descripcion":"PARRILLAS FREIDORAS ETC"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"139",
+    "descripcion":"ABRELATAS CUCHILLO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"142",
+    "descripcion":"BATERIAS DE COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"143",
+    "descripcion":"MESA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"144",
+    "descripcion":"PREPARACION DE ALIMENTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"145",
+    "descripcion":"ACCESORIOS DE COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"146",
+    "descripcion":"ALMACENAMIENTO DE COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"147",
+    "descripcion":"REPOSTRERIA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"148",
+    "descripcion":"OLLAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"149",
+    "descripcion":"UTENSILIOS DE COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"151",
+    "descripcion":"SARTENES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"154",
+    "descripcion":"ALMACENAMIENTO DE COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"155",
+    "descripcion":"CONTENEDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"156",
+    "descripcion":"ACCESORIOS PARA REFRIGERADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"157",
+    "descripcion":"VAJILLAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"160",
+    "descripcion":"VASOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"163",
+    "descripcion":"TERNOS Y PLATONES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"166",
+    "descripcion":"TERMOS Y HIELERAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"169",
+    "descripcion":"FILTROS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"172",
+    "descripcion":"BURROS DE PLANCHAR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"175",
+    "descripcion":"BASCULAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"178",
+    "descripcion":"ASPIRADORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"180",
+    "descripcion":"HIDROLAVADORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"181",
+    "descripcion":"CUIDADO PERSONAL DAMAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"182",
+    "descripcion":"CUIDADO PERSONAL CABALLEROS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"184",
+    "descripcion":"EQUIPAJE DE VIAJE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"185",
+    "descripcion":"EQUIPAJE DE COMPUTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"187",
+    "descripcion":"CALCULADORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"190",
+    "descripcion":"MQ. ESCRIBIR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"192",
+    "descripcion":"ARTICULOS VIANA ELECT PERSONAL"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"193",
+    "descripcion":"PLANCHAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"196",
+    "descripcion":"RELOJES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"197",
+    "descripcion":"ACCESORIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"198",
+    "descripcion":"ARTICULOS VIANA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"199",
+    "descripcion":"OFERTAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"201",
+    "descripcion":"AMPLIFICADORES CAR AUDIO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"202",
+    "descripcion":"AUTO STEREOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"203",
+    "descripcion":"BOCINA CAR AUDIO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"204",
+    "descripcion":"MODULAR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"205",
+    "descripcion":"RADIOGRABADORAS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"206",
+    "descripcion":"MINI AUDIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"207",
+    "descripcion":"RADIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"208",
+    "descripcion":"REGULADORES Y SUPRESORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"209",
+    "descripcion":"TELEVISOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"210",
+    "descripcion":"TELEVISOR COLOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"211",
+    "descripcion":"HORNOS MICROONDAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"212",
+    "descripcion":"INSTRUMENTOS MUSICALES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"213",
+    "descripcion":"REGRESADOR VIDEO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"214",
+    "descripcion":"CONTROLES"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"215",
+    "descripcion":"CAMARA FOTOGRAFICA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"216",
+    "descripcion":"DVD"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"217",
+    "descripcion":"CONSUMIBLES P/ GRABACION VIDEO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"218",
+    "descripcion":"VIDEO CAMARA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"219",
+    "descripcion":"ACCESORIOS TV"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"220",
+    "descripcion":"CONSOLAS DE VIDEOJUEGOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"221",
+    "descripcion":"BATERIAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"222",
+    "descripcion":"TELEFONOS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"223",
+    "descripcion":"COMPUTADORAS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"224",
+    "descripcion":"TELEFONOS CELULARES"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"225",
+    "descripcion":"CELULARES P/GARANTIA"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"226",
+    "descripcion":"TARJETAS DE LARGA DISTANCIA"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"227",
+    "descripcion":"PLANES TARIFARIOS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"228",
+    "descripcion":"TARJETAS CELULARES"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"229",
+    "descripcion":"CHIPS CELULARES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"230",
+    "descripcion":"PELICULAS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"231",
+    "descripcion":"LINEAS PARA VENTA"
+  },
+  {
+    "tipofamilia":"8",
+    "depto":"232",
+    "descripcion":"TABLETS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"233",
+    "descripcion":"TELEFONIA FIJA"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"234",
+    "descripcion":"TARJETAS DE DATOS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"235",
+    "descripcion":"SIM TEL FIJA"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"236",
+    "descripcion":"MODULOS DE SERVICIOS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"237",
+    "descripcion":"SIM POSTPAGO"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"238",
+    "descripcion":"SIM TABLET"
+  },
+  {
+    "tipofamilia":"8",
+    "depto":"239",
+    "descripcion":"ACCESORIOS PARA TABLET"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"240",
+    "descripcion":"MEMORIAS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"241",
+    "descripcion":"ACCESORIOS DE VIDEOJUEGOS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"242",
+    "descripcion":"VIDEO JUEGOS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"243",
+    "descripcion":"ACCESORIOS DE COMPUTACION"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"244",
+    "descripcion":"AUDIFONOS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"245",
+    "descripcion":"IMPRESION"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"246",
+    "descripcion":"KIOSKO KODAK"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"247",
+    "descripcion":"TARJETAS DE CONTENIDO"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"248",
+    "descripcion":"TELEFONOS LIBRES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"249",
+    "descripcion":"DIGO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"250",
+    "descripcion":"HOME THEATER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"251",
+    "descripcion":"BLU - RAY"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"252",
+    "descripcion":"SOPORTES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"253",
+    "descripcion":"BOCINAS BLUETOOTH"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"254",
+    "descripcion":"CHIP LIBRES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"255",
+    "descripcion":"CELULARES PLANES TARIFARIOS"
+  },
+  {
+    "tipofamilia":"8",
+    "depto":"256",
+    "descripcion":"GADGETS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"290",
+    "descripcion":"CELULARES VIANA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"291",
+    "descripcion":"ARTICULOS VIANA ELECT MAYOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"292",
+    "descripcion":"ARTICULOS VIANA ELECT MENOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"293",
+    "descripcion":"COMPRAS ESPECIALES EP"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"294",
+    "descripcion":"IPODS"
+  },
+  {
+    "tipofamilia":"1",
+    "depto":"295",
+    "descripcion":"ACCESORIOS CELULARES"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"296",
+    "descripcion":"ACCESORIOS CAMARAS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"297",
+    "descripcion":"ACCESORIOS PARA IPOD"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"298",
+    "descripcion":"ACCESORIOS VARIOS"
+  },
+  {
+    "tipofamilia":"6",
+    "depto":"299",
+    "descripcion":"PROMOCIONES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"301",
+    "descripcion":"COLCHON"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"302",
+    "descripcion":"JUEGO BOX"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"303",
+    "descripcion":"COLCHON CUNA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"304",
+    "descripcion":"CAMAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"306",
+    "descripcion":"CABECERAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"308",
+    "descripcion":"LITERAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"309",
+    "descripcion":"ANTECOMEDOR               BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"310",
+    "descripcion":"BASES PARA COLCHON"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"311",
+    "descripcion":"MECEDORAS                 BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"312",
+    "descripcion":"CATRES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"313",
+    "descripcion":"MUEBLE DE OFICINA         BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"314",
+    "descripcion":"MUEBLES INFANTILES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"315",
+    "descripcion":"MUEBLES COCINA            BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"316",
+    "descripcion":"COMEDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"317",
+    "descripcion":"COCINAS                   BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"318",
+    "descripcion":"BUFFETS/TRINCHADOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"320",
+    "descripcion":"COMEDORES                 BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"322",
+    "descripcion":"SILLAS P/COMEDOR SUELTAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"324",
+    "descripcion":"BANCOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"325",
+    "descripcion":"VARIOS                    BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"326",
+    "descripcion":"MECEDORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"327",
+    "descripcion":"COMPLEMENTOS PARA SALA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"328",
+    "descripcion":"JUEGO DE JARDIN"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"330",
+    "descripcion":"JARDIN"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"332",
+    "descripcion":"MUEBLES DE OFICINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"334",
+    "descripcion":"ROPEROS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"336",
+    "descripcion":"COMODAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"338",
+    "descripcion":"ALMACENAMIENTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"342",
+    "descripcion":"COCINAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"343",
+    "descripcion":"COCINAS MODULARES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"344",
+    "descripcion":"DESPENSEROS DE COCINAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"346",
+    "descripcion":"MODULOS DE COCINAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"348",
+    "descripcion":"ALACENA SUELTA P/ COCINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"350",
+    "descripcion":"MESA MULTIFUNCIONAL"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"352",
+    "descripcion":"PORTAGARRAFON"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"356",
+    "descripcion":"PRUEBAS MODO R"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"379",
+    "descripcion":"ACS CUNAS                 BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"380",
+    "descripcion":"ACCESORIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"381",
+    "descripcion":"ARTICULOS VIANA MUEBLES SUELTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"390",
+    "descripcion":"ARTICULOS COMPLEMENTOS    BAJA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"399",
+    "descripcion":"OFERTAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"401",
+    "descripcion":"SALAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"405",
+    "descripcion":"COMPLEMENTOS PARA SALA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"410",
+    "descripcion":"SOFAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"415",
+    "descripcion":"SILLON SUELTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"420",
+    "descripcion":"PIEZAS SUELTAS DE SALA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"430",
+    "descripcion":"SILLONES RECLINABLES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"440",
+    "descripcion":"MESAS SALAS"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"450",
+    "descripcion":"LAMP SALAS Y REC"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"451",
+    "descripcion":"ARTICULOS VIANA DECORACION"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"452",
+    "descripcion":"ACCESORIOS DE PARED"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"454",
+    "descripcion":"ACCESORIOS DE MESA"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"455",
+    "descripcion":"COJINES"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"456",
+    "descripcion":"ACCESORIOS DE PISO"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"457",
+    "descripcion":"NATURALEZA"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"458",
+    "descripcion":"NAVIDAD"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"459",
+    "descripcion":"TAPETES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"460",
+    "descripcion":"RECAMARAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"461",
+    "descripcion":"RECAMARA DESPIEZADA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"463",
+    "descripcion":"STEREOS Y MESAS PARA TV"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"465",
+    "descripcion":"PIEZAS SUELTAS DE RECAMARAS"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"470",
+    "descripcion":""
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"480",
+    "descripcion":"COMEDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"481",
+    "descripcion":"PIEZAS SUELTAS DE COMEDOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"483",
+    "descripcion":"MQ COSER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"485",
+    "descripcion":"COMPLEMENTOS PARA MQ DE COSER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"488",
+    "descripcion":"ARTICULOS VIANA SALAS RECAMAR"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"489",
+    "descripcion":"ARTICULOS VIANA DECORACION"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"490",
+    "descripcion":"DECORACION"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"491",
+    "descripcion":"ROPA DE CAMA INTERIOR"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"492",
+    "descripcion":"ROPA DE CAMA EXTERIOR"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"493",
+    "descripcion":"ROPA DE CAMA DE TEMPORADA"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"494",
+    "descripcion":"ROPA DE CUNA"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"495",
+    "descripcion":"ALMOHADAS"
+  },
+  {
+    "tipofamilia":"5",
+    "depto":"496",
+    "descripcion":"CORTINAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"497",
+    "descripcion":"ACCESORIOS PARA MQ DE COSER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"498",
+    "descripcion":"COMPLEM.VARIOS DE REC SALA COM"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"499",
+    "descripcion":"PROMOCIONES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"501",
+    "descripcion":"BEBES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"503",
+    "descripcion":"JUGUETES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"506",
+    "descripcion":"LLANTAS"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"507",
+    "descripcion":"ACUMULADORES"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"508",
+    "descripcion":"ALBERCAS"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"509",
+    "descripcion":"CAMPISMO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"510",
+    "descripcion":"BICICLETAS INFANTIL Y JUVENIL"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"511",
+    "descripcion":"ACCESORIOS BICICLETAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"515",
+    "descripcion":"BICICLETA ADULTO"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"518",
+    "descripcion":"TRICARGA"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"519",
+    "descripcion":"APARATOS DE EJERCICIO"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"520",
+    "descripcion":"VARIOS AUTOMOTRIZ"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"523",
+    "descripcion":"HERRAMIENTAS AUTOMOTRIZ"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"530",
+    "descripcion":"ACCESORIOS AUT ELECTRICOS"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"531",
+    "descripcion":"ACCESORIOS AUT MANUALES"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"532",
+    "descripcion":"HERRAMIENTAS ELECTRICAS"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"533",
+    "descripcion":"HERRAMIENTAS MANUALES"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"535",
+    "descripcion":"FOCOS"
+  },
+  {
+    "tipofamilia":"9",
+    "depto":"540",
+    "descripcion":"PINTURA E IMPERMEABILIZANTE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"541",
+    "descripcion":"JUGUETES OUT DOOR \"INFLABLES\""
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"542",
+    "descripcion":"JUGUETES OUTDOOR \"GRAN VOLUMEN"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"543",
+    "descripcion":"OUT DOOR COCHERA Y JARDIN"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"580",
+    "descripcion":"MOTOCICLETAS"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"581",
+    "descripcion":"CASCOS"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"582",
+    "descripcion":"CAJAS MOTOS"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"583",
+    "descripcion":"ACCESORIOS"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"584",
+    "descripcion":"SEGUROS"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"585",
+    "descripcion":"LLANTAS MOTOCICLETA"
+  },
+  {
+    "tipofamilia":"7",
+    "depto":"586",
+    "descripcion":"GUANTES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"588",
+    "descripcion":"SEGUROS MOTOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"597",
+    "descripcion":"ARTICULOS VIANA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"598",
+    "descripcion":"EXHIBIDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"599",
+    "descripcion":"OFERTAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"601",
+    "descripcion":"ACONDICIONADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"602",
+    "descripcion":"COOLER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"603",
+    "descripcion":"VENTILADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"604",
+    "descripcion":"CALENTADORES DE AGUA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"605",
+    "descripcion":"CALEFACTORES DE AMBIENTE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"606",
+    "descripcion":"ESTUFAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"607",
+    "descripcion":"CAMPANAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"608",
+    "descripcion":"HORNO P/EMPOTRAR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"609",
+    "descripcion":"ESTUFAS DE MESA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"610",
+    "descripcion":"ENF AGUA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"611",
+    "descripcion":"REFRIGERADOR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"612",
+    "descripcion":"LAVADORA/SECADORA/LAVAVAJILLA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"613",
+    "descripcion":"COMPACTORES BASURA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"614",
+    "descripcion":"MICROONDAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"615",
+    "descripcion":"ACCESORIO ESTUFAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"620",
+    "descripcion":"ACONDICIONADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"625",
+    "descripcion":"COOLER"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"630",
+    "descripcion":"VENTILADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"635",
+    "descripcion":"CALENTADORES DE AGUA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"640",
+    "descripcion":"CALEFACTORES DE AMBIENTE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"645",
+    "descripcion":"ESTUFAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"650",
+    "descripcion":"MICROONDAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"655",
+    "descripcion":"EMPOTRE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"660",
+    "descripcion":"ESTUFAS DE MESA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"665",
+    "descripcion":"REFRIGERADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"670",
+    "descripcion":"LAVADORAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"675",
+    "descripcion":"ENFRIADORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"680",
+    "descripcion":"VARIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"697",
+    "descripcion":"ARTICULOS VIANA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"698",
+    "descripcion":"EXHIBIDORES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"699",
+    "descripcion":"PROMOCIONES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"701",
+    "descripcion":"RELOJ DAMA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"702",
+    "descripcion":"RELOJ CABALLERO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"703",
+    "descripcion":"RELOJ NI�OS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"799",
+    "descripcion":"OFERTAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"801",
+    "descripcion":"ANILLOS DAMA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"802",
+    "descripcion":"ANILLOS CABALLERO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"803",
+    "descripcion":"ARGOLLAS MATRIMONIO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"804",
+    "descripcion":"ACCESORIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"805",
+    "descripcion":"ARETES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"806",
+    "descripcion":"PENDANTIF"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"807",
+    "descripcion":"CADENAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"808",
+    "descripcion":"PULSERAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"809",
+    "descripcion":"JUEGOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"810",
+    "descripcion":"VARIOS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"811",
+    "descripcion":"ARGOLLAS 10KT-14KT"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"812",
+    "descripcion":"ANILLO DAMA 10KT - 14KT"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"820",
+    "descripcion":"ANILLOS DAMA ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"821",
+    "descripcion":"ANILLOS CABALLERO ACERO INOXID"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"822",
+    "descripcion":"ARGOLLAS ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"824",
+    "descripcion":"ARETES ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"825",
+    "descripcion":"PENDANTIF ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"826",
+    "descripcion":"CADENAS ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"827",
+    "descripcion":"PULSOS ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"828",
+    "descripcion":"JUEGOS ACERO INOXIDABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"840",
+    "descripcion":"ANILLO DAMA PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"841",
+    "descripcion":"ANILLO CABALLERO COCTEL PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"843",
+    "descripcion":"ARETES PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"844",
+    "descripcion":"PENDANTIF PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"845",
+    "descripcion":"CADENAS PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"846",
+    "descripcion":"PULSERAS PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"847",
+    "descripcion":"JUEGOS PLATA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"860",
+    "descripcion":"JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"861",
+    "descripcion":"ANILLOS DAMA JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"862",
+    "descripcion":"ANILLO CABALLERO  JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"863",
+    "descripcion":"ARETES JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"864",
+    "descripcion":"PENDANTIF JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"865",
+    "descripcion":"CADENAS JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"866",
+    "descripcion":"PULSERAS JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"867",
+    "descripcion":"SETS JOYERIA FINA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"898",
+    "descripcion":"COMPRAS ESPECIALES"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"899",
+    "descripcion":"OFERTAS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"901",
+    "descripcion":"ARM DAMA"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"908",
+    "descripcion":"MERCANCIA EN CONSIGNACION"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"910",
+    "descripcion":"ARM CABALLERO"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"920",
+    "descripcion":"ARM UNISEX"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"930",
+    "descripcion":"ARM NI�OS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"940",
+    "descripcion":"ARM NI�AS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"950",
+    "descripcion":"PLASTICO CR 39"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"955",
+    "descripcion":"PLASTICO FOTOCAMBIABLE"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"960",
+    "descripcion":"POLICARBONATO"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"965",
+    "descripcion":"POLI CAMBIABLE"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"968",
+    "descripcion":"PAQUETES OFTALMICOS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"970",
+    "descripcion":"CRISTALES"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"975",
+    "descripcion":"PROCESOS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"977",
+    "descripcion":"ARMAZON DE MARCA"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"979",
+    "descripcion":"LENTE DE CONTACTO GRADUADO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"980",
+    "descripcion":"LENTES DE CONTACTO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"990",
+    "descripcion":"ACCESORIOS DE OPTICA"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"991",
+    "descripcion":"ARMAZON OFTALMICO ARO COMPLETO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"992",
+    "descripcion":"LENTE OFTALMICO RANURADO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"993",
+    "descripcion":"LENTE OFTALMICO 3 PIEZAS"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"994",
+    "descripcion":"LENTE OFTALMICO ACETATO"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"995",
+    "descripcion":"LENTE SOLAR"
+  },
+  {
+    "tipofamilia":"0",
+    "depto":"996",
+    "descripcion":"LENTES PREGRADUADOS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"998",
+    "descripcion":"VARIOS"
+  },
+  {
+    "tipofamilia":"2",
+    "depto":"999",
+    "descripcion":"MERCANCIA EN CONSIGNACION"
+  }
+]

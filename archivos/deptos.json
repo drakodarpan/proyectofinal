@@ -1,0 +1,116 @@
+[
+  {
+    "depto":"1",
+    "descripcion":"1 - DOMESTICOS",
+    "tipofamilia":"0",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - CELULARES",
+    "tipofamilia":"1",
+    "usuario":"IRENE MARIA MADRID ALFARO"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - ELECTRONICA",
+    "tipofamilia":"0",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - ELECTRONICA PERSONAL",
+    "tipofamilia":"6",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - TABLETS",
+    "tipofamilia":"8",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - TABLETS",
+    "tipofamilia":"8",
+    "usuario":"DIEGO ALBERTO COPPEL SULLIVAN"
+  },
+  {
+    "depto":"2",
+    "descripcion":"2 - TABLETS",
+    "tipofamilia":"8",
+    "usuario":"GUILLERMO RUBIO PINEDA"
+  },
+  {
+    "depto":"3",
+    "descripcion":"3 - MUEBLE SUELTO",
+    "tipofamilia":"0",
+    "usuario":"MARTHA PATRICIA DEPRAECT FELIX"
+  },
+  {
+    "depto":"4",
+    "descripcion":"4 - DECORACION",
+    "tipofamilia":"5",
+    "usuario":"MARTHA PATRICIA DEPRAECT FELIX"
+  },
+  {
+    "depto":"4",
+    "descripcion":"4 – SALAS  RECAMARAS  COMEDORES",
+    "tipofamilia":"0",
+    "usuario":"MARTHA PATRICIA DEPRAECT FELIX"
+  },
+  {
+    "depto":"5",
+    "descripcion":"5 - BICICLETAS/BEBES/AUTOMOTRIZ",
+    "tipofamilia":"0",
+    "usuario":"ANA PAOLA RAMOS ALVAREZ"
+  },
+  {
+    "depto":"6",
+    "descripcion":"6 - LINEA BLANCA",
+    "tipofamilia":"0",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"6",
+    "descripcion":"6 - LINEA BLANCA",
+    "tipofamilia":"4",
+    "usuario":"ARTURO NIÑO DE RIVERA VEGA"
+  },
+  {
+    "depto":"7",
+    "descripcion":"7 - RELOJERIA",
+    "tipofamilia":"0",
+    "usuario":"DINA SELENE ARELLANO CONDE"
+  },
+  {
+    "depto":"8",
+    "descripcion":"8 - JOYERIA",
+    "tipofamilia":"0",
+    "usuario":"DINA SELENE ARELLANO CONDE"
+  },
+  {
+    "depto":"8",
+    "descripcion":"8 - JOYERIA",
+    "tipofamilia":"2",
+    "usuario":"DINA SELENE ARELLANO CONDE"
+  },
+  {
+    "depto":"8",
+    "descripcion":"8 - JOYERIA",
+    "tipofamilia":"3",
+    "usuario":"DINA SELENE ARELLANO CONDE"
+  },
+  {
+    "depto":"9",
+    "descripcion":"9 - OPTICA",
+    "tipofamilia":"0",
+    "usuario":"RAUL EFREN FELIX REYES"
+  },
+  {
+    "depto":"9",
+    "descripcion":"9 - OPTICA",
+    "tipofamilia":"2",
+    "usuario":"RAUL EFREN FELIX REYES"
+  }
+]
